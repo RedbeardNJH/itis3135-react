@@ -1,13 +1,13 @@
 export default function Navbar() {
-    return(
-        <>
-        <nav>
+  return (
+    <>
+      <nav>
         <ul>
-          <li><a>Home</a></li>
-          <li><a >Introduction</a></li>
-          <li><a>Contract</a></li>
+          <li><a src="/">Home</a></li>
+          <li><a src="/Introduction">Introduction</a></li>
+          <li><a src="/Contract">Contract</a></li>
         </ul>
       </nav>
-      </>
-    );
+    </>
+  );
 }
