@@ -1,13 +1,13 @@
+import './index.css'
+
 export default function Navbar() {
   return (
     <>
-      <nav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/Introduction">Introduction</a></li>
-          <li><a href="/Contract">Contract</a></li>
-        </ul>
-      </nav>
+        <p>
+          <a href='/'>Homepage</a> ||&nbsp;
+          <a href='/Introduction'>Introduction</a> ||&nbsp;
+          <a href='/Contract'>Contract</a>
+        </p>
     </>
   );
 }
