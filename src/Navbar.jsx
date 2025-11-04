@@ -3,9 +3,9 @@ export default function Navbar() {
     <>
       <nav>
         <ul>
-          <li><a src="/">Home</a></li>
-          <li><a src="/Introduction">Introduction</a></li>
-          <li><a src="/Contract">Contract</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/Introduction">Introduction</a></li>
+          <li><a href="/Contract">Contract</a></li>
         </ul>
       </nav>
     </>
