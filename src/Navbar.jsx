@@ -5,8 +5,8 @@ export default function Navbar() {
     <>
         <p>
           <a href='./'>Homepage</a> ||&nbsp;
-          <a href='./src/Introduction'>Introduction</a> ||&nbsp;
-          <a href='./src/Contract'>Contract</a>
+          <a href='./Introduction'>Introduction</a> ||&nbsp;
+          <a href='./Contract'>Contract</a>
         </p>
     </>
   );
