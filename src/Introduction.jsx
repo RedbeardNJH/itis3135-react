@@ -7,7 +7,7 @@ export default function Introduction() {
             <Header />
             <main>
                 <h2>ITIS 3135 Introduction</h2>
-                <img src="/public/Norway_hike_NJH.jpg" alt="NJH hike in Norway" />
+                <img src="/Norway_hike_NJH.jpg" alt="NJH hike in Norway" />
                 <p>Noah J Harden at Tromsø's Tromsdalstinden Mountain Peak</p>
                 <ul>
                     <li><strong>Personal Background:</strong> Hello everyone, My name is Noah J Harden!
