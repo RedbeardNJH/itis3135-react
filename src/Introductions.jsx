@@ -64,12 +64,12 @@ export default function Introductions() {
                         </ul>
                         <em> {studentData.quote.text}</em>
                         <p>- {studentData.quote.author}</p>
-                        <a href={studentData.links.charlotte}>CLT WEB</a> {" "}
-                        <a href={studentData.links.github}>GitHub</a> {" "}
-                        <a href={studentData.links.githubio}>GitHub io</a>{" "}
-                        <a href={studentData.links.itis3135}>itis 3135</a>{" "}
-                        <a href={studentData.links.freecodecamp}>Free Code Camp</a>{" "}
-                        <a href={studentData.links.codecademy}>Code Acadamy</a>{" "}
+                        <a href={studentData.links.charlotte}>CLT WEB</a> {" "} {studentData.divider} {" "}
+                        <a href={studentData.links.github}>GitHub</a> {" "} {studentData.divider} {" "}
+                        <a href={studentData.links.githubio}>GitHub io</a>{" "} {studentData.divider} {" "}
+                        <a href={studentData.links.itis3135}>itis 3135</a>{" "} {studentData.divider} {" "}
+                        <a href={studentData.links.freecodecamp}>Free Code Camp</a>{" "} {studentData.divider} {" "}
+                        <a href={studentData.links.codecademy}>Code Acadamy</a>{" "} {studentData.divider} {" "}
                         <a href={studentData.links.linkedin}>Linked In</a>
                         <hr />
                     </article>
